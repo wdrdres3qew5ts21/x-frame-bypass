@@ -1,17 +1,22 @@
 {
   "name": "x-frame-bypass",
-  "version": "1.0.2",
-  "description": "Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin",
+  "version": "1.0.0",
+  "description": "Force Re-Render Iframe for DOM",
   "main": "x-frame-bypass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdrdres3qew5ts21/x-frame-bypass.git"
+  },
   "keywords": [
-    "iframe",
-    "cors",
-    "x-frame-options",
-	"web-components",
-	"custom-elements"
+    "iframe"
   ],
-  "author": "niu tech",
-  "homepage": "https://github.com/niutech/x-frame-bypass",
-  "repository": "github:niutech/x-frame-bypass",
-  "license": "Apache-2.0"
+  "author": "wdrdres3qew5ts21@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdrdres3qew5ts21/x-frame-bypass/issues"
+  },
+  "homepage": "https://github.com/wdrdres3qew5ts21/x-frame-bypass#readme"
 }
